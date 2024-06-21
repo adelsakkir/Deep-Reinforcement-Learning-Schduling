@@ -56,6 +56,8 @@ The definition of the agent classes can be found in the script 'agents.py'.
 
 ![image](https://github.com/adelsakkir/Deep-Reinforcement-Learning-Scheduling/assets/63802234/48b60fc2-e87c-414b-8039-c2b558d2f9c9)
 
+### Results Visualisation
+
 
 ![image](https://github.com/adelsakkir/Deep-Reinforcement-Learning-Scheduling/assets/63802234/3de91cb2-75bd-4ab4-8c3e-07fa0bf9adf1)
 
