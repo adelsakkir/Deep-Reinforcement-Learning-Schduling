@@ -1,0 +1,16 @@
+Agent,Jobs,Machines,Families,Priority Weighted Cycle Time (PWCT)
+Greedy,10,5,4,873.0
+Greedy,20,5,4,2157.0
+Greedy,30,5,4,3819.0
+Greedy,40,5,4,6012.0
+Greedy,50,5,4,13590.0
+Online DQN,10,5,4,933.0
+Online DQN,20,5,4,2226.0
+Online DQN,30,5,4,5271.0
+Online DQN,40,5,4,7647.0
+Online DQN,50,5,4,14862.0
+Offline DQN,10,5,4,489.0
+Offline DQN,20,5,4,1419.0
+Offline DQN,30,5,4,3714.0
+Offline DQN,40,5,4,5007.0
+Offline DQN,50,5,4,12921.0
