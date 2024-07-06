@@ -1,7 +1,5 @@
 # Deep-Reinforcement-Learning-Schduling
-An offline and online approach to modelling and solving a Parallel machine scheduling problem using deep reinforcement learning
-
-This project explores the application of reinforcement learning (RL) techniques to solve the Parallel Machine Scheduling Problem (PMS), which is an optimisation task that has been classified as NP-hard (Mokotoff, 2001, p. 194). The PMS requires allocating a set number of jobs (n) to multiple machines (m) to minimise, for example, the priority-weigted cycle time (PWCT).
+An offline and online approach to modelling and solving a Parallel machine scheduling (PMS) problem using deep reinforcement learning. The PMS requires allocating a set number of jobs (n) to multiple machines (m) to minimise, for example, the priority-weigted cycle time (PWCT).
 
 ### MDP Formulation
 
