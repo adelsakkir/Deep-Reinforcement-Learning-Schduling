@@ -1,6 +1,12 @@
 # Deep-Reinforcement-Learning-Schduling
 An offline and online approach to modelling and solving a Parallel machine scheduling (PMS) problem using deep reinforcement learning. The PMS requires allocating a set number of jobs (n) to multiple machines (m) to minimise, for example, the priority-weigted cycle time (PWCT).
 
+Please refer to Main_notebook.ipynb for the relevant code. Helpers scripts include - 
+- agents.py
+- environment.py
+- experiments.py
+- tools.py
+
 ### MDP Formulation
 
 ![image](https://github.com/adelsakkir/Deep-Reinforcement-Learning-Scheduling/assets/63802234/ab249d93-ef7b-4adf-9aaa-6efc10dcf839)
